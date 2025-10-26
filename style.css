@@ -1,0 +1,53 @@
+:root{
+    --background: #FFF;
+    --subjects: #000;
+    --unit-1: #560A0C;
+    --unit-2: #58391D;
+    --unit-3: #5B561F;
+    --unit-4: #1E5748;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--background);
+}
+
+#subjects a{
+    color: var(--subjects);
+}
+
+img{
+    width: 100%;
+}
+
+.unit-1{
+    color: var(--unit-1);
+}
+
+.unit-1 a{
+    color: var(--unit-1);
+}
+
+.unit-2{
+    color: var(--unit-2);
+}
+
+.unit-2 a{
+    color: var(--unit-2);
+}
+
+.unit-3{
+    color: var(--unit-3);
+}
+
+.unit-3 a{
+    color: var(--unit-3);
+}
+
+.unit-4{
+    color: var(--unit-4);
+}
+
+.unit-4 a{
+    color: var(--unit-4);
+}
